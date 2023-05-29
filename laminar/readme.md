@@ -1,0 +1,1 @@
+Laminar (or streamline) flow is when a fluid moves in parallel layers without crossing paths, with no swirling or vortices.
